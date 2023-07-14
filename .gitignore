@@ -1,0 +1,35 @@
+# npm
+node_modules
+# next.js build files
+.next
+# environment variables
+.env.local
+!.env.example
+
+# JetBrains IDE
+.idea
+.idea/*
+*.iml
+/package-lock.json
+/yarn-error.log
+/public/sw.js
+/public/workbox-6a1bf588.js
+/storybook-static/*
+
+# log files
+*.log
+
+### macOS ###
+# General
+.DS_Store
+
+
+### yarn berry
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+.pnp.*

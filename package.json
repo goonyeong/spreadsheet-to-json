@@ -1,0 +1,10 @@
+{
+  "name": "next-i18next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "google-spreadsheet": "^3.3.0",
+    "i18next": "^22.5.1"
+  }
+}
